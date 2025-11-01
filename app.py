@@ -138,4 +138,4 @@ elif option == "📂 Upload CSV File":
 
 
 st.markdown("---")
-st.caption("🚀 Built with Streamlit | Machine Learning for Smart Agriculture 🌾")
+st.caption("🚀 Built by killer  | Machine Learning for Smart Agriculture 🌾")
