@@ -2,7 +2,7 @@
 
 This Streamlit web application predicts the **most suitable crop** to grow based on soil and weather conditions using **machine learning**.  
 It helps farmers and agricultural experts make **data-driven decisions** to improve yield and sustainability.
-
+Streamlit app URL:https://intelligent-crop-recommendation-system-liqmnjqojau6l8gdricfep.streamlit.app/
 ---
 
 ## 🚀 Features
